@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "BALCONY"]
-	path = BALCONY
-	url = https://github.com/stolarczyk/balcony
-	shallow = true
-	registered = true
