@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "BALCONY",
+    "oncran": true
+  }
+]
